@@ -1,0 +1,9 @@
+* cl-cblas
+
+C2FFI based wrapper for CBLAS
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/digikar99/cl-cblas.git |
+| commit  | 1eb9791                                       |
+| systems | cblas                                         |
+|---------+-----------------------------------------------|
