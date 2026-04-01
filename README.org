@@ -7,3 +7,4 @@ C2FFI based wrapper for CBLAS
 | commit  | 1eb9791                                       |
 | systems | cblas                                         |
 |---------+-----------------------------------------------|
+ 
